@@ -1,0 +1,44 @@
+.main-header, .content-wrapper{background-color:#858df8;
+    padding-left: 0px;
+ 
+  
+ 
+}
+
+.sidebar{
+  height: 602px;
+    background-color:white;
+    text-align: center;
+    border: none;
+}
+.cadre-items{
+   margin: 20px;
+   height: 50px; 
+   width: 70%;
+   color: white;
+   border: ridge;
+   
+  background-color: black
+
+}
+.main-footer{
+    background-color: #9a9a9a;
+    margin-left: 0px !important;
+    color: white;
+    text-align: center
+}
+.nav-link >span{
+color: #ff0066;
+
+}
+.studentcard{
+    font-size: 3.5em;
+  margin-left: 220px;
+}
+.colonne-accueil{
+    padding: 50px;
+    margin-left: 70px;
+    margin-top: 70px;
+
+    
+}
